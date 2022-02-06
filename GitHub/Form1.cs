@@ -36,5 +36,10 @@ namespace GitHub
             string titile = "Введеный текст";
             MessageBox.Show(Message1, titile);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
